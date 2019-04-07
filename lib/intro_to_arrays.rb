@@ -10,3 +10,7 @@ end
 def first_element(array)
   array.first
 end 
+
+def last_element(array)
+  array.last
+end
